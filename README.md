@@ -16,7 +16,7 @@ Compared to SOTA approaches, LISO is faster and more reliable, reducing recovery
 LISO is also highly extensible, e.g., to JPEG compression, or avoiding steganalysis detection.
 
 ![Figure](liso.jpg)
-
+*LISO iteratively optimizing a sample image with 3 bits encoded in each pixel, achieving **zero** error in 8 steps.*
 
 ## Prerequisites
 - Python >= 3.6
