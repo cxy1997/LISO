@@ -25,7 +25,7 @@ LISO is also highly extensible, e.g., to JPEG compression, or avoiding steganaly
 - cuDNN >= 7.6
 
 ## Getting Started
-Download and extract [subsampled image datasets](https://drive.google.com/file/d/1ai9D3Z0lcdEnRX24pUL_XfuFSjWtbh5K) and [pretrained weights](https://drive.google.com/file/d/1128829Sq5nJJmckqYcdTUs4EmBeg3NGH) into `LISO/`. 
+Download and extract [subsampled image datasets](https://drive.google.com/file/d/1hpD5ORayiix0EIgUod3ZtEhYC4cXL69d) and [pretrained weights](https://drive.google.com/file/d/118EVnZI5FCpzD9RePOzcU8FXWQkqKYWF) into `LISO/`. 
 We provide our custom subset of [Div2k](https://data.vision.ee.ethz.ch/cvl/DIV2K/), [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), and [MS COCO](https://cocodataset.org), and corresponding trained LISO model weights under payload of `1-4 bits per pixel` / `JPEG compression` (on Div2k). 
 Trained [SiaStegNet](https://ieeexplore.ieee.org/document/9153041) and [XuNet](https://dl.acm.org/doi/10.1145/3082031.3083236) weights are also included.
 
